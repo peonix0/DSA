@@ -11,6 +11,6 @@
  Asynchronous data transfer
 
 # Ways of Implementating Queue
- Simple circular array
- Dynamic circular array
- Linked list
+  Simple circular array
+  Dynamic circular array
+  Linked list
