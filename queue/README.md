@@ -5,12 +5,12 @@
 
 # Applications
 
- Job scheduling in Operating system
+ - Job scheduling in Operating system
    - Polling techinque
- Waiting time of customers at call center
- Asynchronous data transfer
+ - Waiting time of customers at call center
+ - Asynchronous data transfer
 
 # Ways of Implementating Queue
- Simple circular array
- Dynamic circular array
- Linked list
+  - Simple circular array
+  - Dynamic circular array
+  - Linked list
