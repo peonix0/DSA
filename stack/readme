@@ -1,0 +1,14 @@
+#Applications of stack
+
+Infix-to-Postfix conversion.
+Implementing function calls including recursion.
+Implementing Previos page(back) in browser.
+Undo in text editors.
+Matching tags in HTML and XML.
+
+
+#Different ways to implement Stack
+
+Simple array
+Dynamic array
+Linked lists
