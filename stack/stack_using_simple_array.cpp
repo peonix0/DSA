@@ -77,21 +77,21 @@ void delete_stack(stack *S){
 
 //test
 
-int main(){
-  stack *S = create_stack(5);
-  push(S,5);
-  push(S,7);
-  push(S,11);
-  push(S,10);
-  push(S,9);
-  push(S,12);
-  cout <<top(S)<<"\n";
-  cout <<"Capacity: "<< S->capacity<<"\n";
-  cout << "Pop: "<<pop(S)<<"\n";
-  push(S,12);
-  cout <<top(S)<<"\n";
-  cout <<"Size: "<<size(S)<<"\n";
-  delete_stack(S);
-
-
-}
+// int main(){
+//   stack *S = create_stack(5);
+//   push(S,5);
+//   push(S,7);
+//   push(S,11);
+//   push(S,10);
+//   push(S,9);
+//   push(S,12);
+//   cout <<top(S)<<"\n";
+//   cout <<"Capacity: "<< S->capacity<<"\n";
+//   cout << "Pop: "<<pop(S)<<"\n";
+//   push(S,12);
+//   cout <<top(S)<<"\n";
+//   cout <<"Size: "<<size(S)<<"\n";
+//   delete_stack(S);
+//
+//
+// }
