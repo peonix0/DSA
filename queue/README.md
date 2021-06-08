@@ -1,9 +1,9 @@
-#Queue
+# Queue
 
  Ordered list in which insertions are done at one end(rear) and deletion from other end(front).
 
 
-#Applications
+# Applications
 
  Job scheduling in Operating system
    - Polling techinque
@@ -13,4 +13,4 @@
 # Ways of Implementating Queue
  Simple circular array
  Dynamic circular array
- Linked list 
+ Linked list
