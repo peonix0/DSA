@@ -1,4 +1,4 @@
-A simple way to represent pairwise relationship between objects define. Used to represent large Newterk of nodes(e.g. Networking, G-maps).
+A simple way to represent pairwise relationship between objects. Used to represent large Network of nodes(e.g. Networking, G-maps).
 
 # Type
  * Directed graph
@@ -16,7 +16,7 @@ A simple way to represent pairwise relationship between objects define. Used to 
  - BFS
  - Greedy best first search
  - A* search
- 
+
  - Dijkstra's
  - Bellmon-ford
  - Kruskal's
