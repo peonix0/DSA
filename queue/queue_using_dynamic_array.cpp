@@ -82,29 +82,29 @@ void delete_queue(queue* Q){
 
 //test
 
-int main(){
-  queue *Q = create_queue(5);
-  enqueue(Q,5);
-  enqueue(Q,4);
-  enqueue(Q,3);
-  enqueue(Q,2);
-  cout << "Size: "<<size(Q)<<"\n";
-  cout <<"capacity: "<<Q->capacity<<"\n";
-  enqueue(Q,1);
-  enqueue(Q,0);
-
-  cout << "Size: "<<size(Q)<<"\n";
-  cout <<"capacity: "<<Q->capacity<<"\n";
-
-  cout <<"Dequeue: "<< dequeue(Q)<<"\n";
-  cout <<"Dequeue: "<< dequeue(Q)<<"\n";
-  cout <<"Dequeue: "<< dequeue(Q)<<"\n";
-  cout <<"Dequeue: "<< dequeue(Q)<<"\n";
-  cout <<"Dequeue: "<< dequeue(Q)<<"\n";
-  cout <<"Dequeue: "<< dequeue(Q)<<"\n";
-  cout << "Size: "<< size(Q)<<"\n";
-
-  delete_queue(Q);
-
-
-}
+// int main(){
+//   queue *Q = create_queue(5);
+//   enqueue(Q,5);
+//   enqueue(Q,4);
+//   enqueue(Q,3);
+//   enqueue(Q,2);
+//   cout << "Size: "<<size(Q)<<"\n";
+//   cout <<"capacity: "<<Q->capacity<<"\n";
+//   enqueue(Q,1);
+//   enqueue(Q,0);
+//
+//   cout << "Size: "<<size(Q)<<"\n";
+//   cout <<"capacity: "<<Q->capacity<<"\n";
+//
+//   cout <<"Dequeue: "<< dequeue(Q)<<"\n";
+//   cout <<"Dequeue: "<< dequeue(Q)<<"\n";
+//   cout <<"Dequeue: "<< dequeue(Q)<<"\n";
+//   cout <<"Dequeue: "<< dequeue(Q)<<"\n";
+//   cout <<"Dequeue: "<< dequeue(Q)<<"\n";
+//   cout <<"Dequeue: "<< dequeue(Q)<<"\n";
+//   cout << "Size: "<< size(Q)<<"\n";
+//
+//   delete_queue(Q);
+//
+//
+// }
