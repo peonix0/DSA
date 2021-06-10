@@ -7,7 +7,7 @@
 
  - Job scheduling in Operating system
    - Polling techinque
- - Waiting time of customers at call center
+ - Waiting time of customers at call center(ticket counter lines)
  - Asynchronous data transfer
 
 # Ways of Implementating Queue
